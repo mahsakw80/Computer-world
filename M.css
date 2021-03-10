@@ -1,0 +1,47 @@
+
+.soft{
+    margin: top 80px;
+    color:turquoise;
+
+}
+.hard{
+    margin-top: 50px;
+    color: turquoise;
+
+}
+.learn{
+    color: turquoise;
+
+}
+.d-md-block {
+    margin-top: 50px;
+    color:navy;
+}
+.d-md-none {
+    margin-top: 50px;
+    color:navy;
+}
+.d-md-none {
+    margin-top: 50px;
+    color:navy;
+}
+.parts{
+
+    color:navy;
+}
+.btn{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#loc{
+    margin-top: 100px;
+}
+.programs{
+    color: turquoise;
+    margin-bottom: 30px;
+}
+.programs{
+    color: turquoise;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
